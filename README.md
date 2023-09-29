@@ -1,3 +1,3 @@
-# phoneScrapper
-Scrapper para pegar dados de smartphones (modelo, marca, e foto) do site https://phonesdata.com  
-Os dados são armazenados no arquivo phonesList.json (há um arquivo exemplo no repositório)
+# phoneInfoScrapper
+Scraper to fetch smartphone data (model, brand, and photo) from the website https://phonesdata.com. 
+The data is stored in the phonesList.json file (there is an example file in the repository). 
